@@ -1,2 +1,2 @@
 #!/bin/bash
-cp betty /my_first_directory
+cd /tmp, cp betty /my_first_directory
